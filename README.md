@@ -5,7 +5,6 @@
 - Introduction
 - API
 - Environment
-- Architecture
 - Features
 - Swift Package Manager
 
