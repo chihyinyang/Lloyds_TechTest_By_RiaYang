@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "reachability.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ashleymills/Reachability.swift",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a81b7367f2c46875f29577e03a60c39cdfad0c8d"
+      }
+    },
+    {
+      "identity" : "sdwebimage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SDWebImage/SDWebImage.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "936f1c7067728d16c362ba4fb93c17df78b5fd79"
+      }
+    },
+    {
+      "identity" : "shuffle",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/mac-gallagher/Shuffle",
+      "state" : {
+        "branch" : "master",
+        "revision" : "df246b9cd6b8b5e021b23c80706b4a4571785c1b"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "branch" : "develop",
+        "revision" : "4d52cc3768ec5d345827b063dfa59e98a929965d"
+      }
+    }
+  ],
+  "version" : 2
+}
