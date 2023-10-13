@@ -22,7 +22,7 @@ Use the best engineering practices wherever you can. You should be looking to de
 - simplicity
 
 ## Introduction
-I selected the FBI Wanted API and integrated it into a dating app, which I believe adds an interesting twist to the concept. I hope you find this project engaging and enjoyable.
+I selected the FBI Wanted API and integrated it with shuffle cards to create a unique and engaging dating app experience. I hope you find this project engaging and enjoyable.
 
 ## API
 - FBI Wanted API: [https://www.fbi.gov/wanted/api](https://www.fbi.gov/wanted/api)
