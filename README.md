@@ -1,14 +1,14 @@
 # Lloyds Tech Test (Ria Yang)
 
 ## Overview
-- Tasks
+- Task
 - Introduction
 - API
 - Environment
 - Features
 - Swift Package Manager
 
-## Tasks
+## Task
 Create an app using an API that you find interesting.  
 If you're having difficulties finding an API, take a look at https://github.com/public-apis/
 public-apis/blob/master/README.md.  
