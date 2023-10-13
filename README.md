@@ -14,12 +14,12 @@ Create an app using an API that you find interesting.
 If you're having difficulties finding an API, take a look at https://github.com/public-apis/
 public-apis/blob/master/README.md.  
 Use the best engineering practices wherever you can. You should be looking to demonstrate the following values:  
-• performance
-• readability
-• maintainability 
-• testability
-• scalability
-• simplicity
+- performance
+- readability
+- maintainability
+- testability
+- scalability
+- simplicity
 
 ## Introduction
 I selected the FBI Wanted API and integrated it into a dating app, which I believe adds an interesting twist to the concept. I hope you find this project engaging and enjoyable.
