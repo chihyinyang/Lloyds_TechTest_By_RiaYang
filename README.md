@@ -32,8 +32,8 @@ I selected the FBI Wanted API and integrated it into a dating app, which I belie
 - iOS 16.0
     
 ## Features
-- shuffle: Swipe left or right to shuffle the cards.
-- detail: Tap the bottom-right button to view more information.
+- Shuffle: Swipe left or right to shuffle the cards.
+- Detail: Tap the bottom-right button to view more information.
 - Unit Test
 - UI Test
 
